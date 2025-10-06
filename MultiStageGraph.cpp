@@ -78,4 +78,18 @@ int main() {
 
     return 0;
 }
-
+OUTPUT
+Enter number of intersections (vertices): 6
+Enter number of roads (edges): 7
+Enter edges (u v w):
+0 1 4
+0 2 2
+1 2 1
+1 3 5
+2 3 8
+2 4 10
+3 5 2
+Enter ambulance start location (source): 0
+Enter number of hospitals: 2
+Enter hospital nodes: 4 5
+Nearest hospital is at node 5 with travel time 14 minutes.
