@@ -99,3 +99,23 @@ int main() {
 
     return 0;
 }
+
+Output
+Enter maximum weight capacity of the boat (in kg): 40
+
+Sorted Items (by Priority, then Value/Weight):
+Item                Weight    Value     Priority   Value/Weight   Type           
+Infant Formula      5         50        1           10.00          Indivisible   
+Medical Kits        10        100       1           10.00          Indivisible   
+Drinking Water      30        90        2           3.00           Divisible     
+Blankets            15        45        3           3.00           Indivisible   
+Food Packets        20        60        3           3.00           Divisible     
+
+Items selected for transport:
+ - Infant Formula: 5 kg, Utility = 50, Priority = 1, Type = Indivisible
+ - Medical Kits: 10 kg, Utility = 100, Priority = 1, Type = Indivisible
+ - Drinking Water: 25 kg, Utility = 75, Priority = 2, Type = Divisible
+
+===== Final Report =====
+Total weight carried: 40.00 kg
+Total utility value carried: 225.00 units
