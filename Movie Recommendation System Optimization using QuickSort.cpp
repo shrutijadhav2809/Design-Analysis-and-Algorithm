@@ -104,3 +104,40 @@ int main() {
 
     return 0;
 }
+
+Enter number of movies: 4
+Enter details for movie 1:
+Title: Inception
+IMDB Rating: 8.8
+Release Year: 2010
+Watch Time Popularity: 950
+
+Enter details for movie 2:
+Title: Interstellar
+IMDB Rating: 8.6
+Release Year: 2014
+Watch Time Popularity: 1000
+
+Enter details for movie 3:
+Title: The Dark Knight
+IMDB Rating: 9.0
+Release Year: 2008
+Watch Time Popularity: 1200
+
+Enter details for movie 4:
+Title: Tenet
+IMDB Rating: 7.5
+Release Year: 2020
+Watch Time Popularity: 850
+
+Sort by:
+1. IMDB Rating
+2. Release Year
+3. Watch Time Popularity
+Enter choice: 1
+
+Sorted Movies:
+Title: The Dark Knight, IMDB: 9, Year: 2008, Popularity: 1200
+Title: Inception, IMDB: 8.8, Year: 2010, Popularity: 950
+Title: Interstellar, IMDB: 8.6, Year: 2014, Popularity: 1000
+Title: Tenet, IMDB: 7.5, Year: 2020, Popularity: 850
