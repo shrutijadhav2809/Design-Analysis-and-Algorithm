@@ -1,0 +1,46 @@
+INPUT
+
+Enter number of relief items: 5
+
+Item 1 name: Food
+Weight (kg): 30
+Utility value: 120
+Divisible (1 for Yes, 0 for No): 1
+
+Item 2 name: Water
+Weight (kg): 20
+Utility value: 100
+Divisible (1 for Yes, 0 for No): 1
+
+Item 3 name: Medicine
+Weight (kg): 10
+Utility value: 200
+Divisible (1 for Yes, 0 for No): 0
+
+Item 4 name: Blankets
+Weight (kg): 25
+Utility value: 80
+Divisible (1 for Yes, 0 for No): 1
+
+Item 5 name: FirstAidKit
+Weight (kg): 15
+Utility value: 150
+Divisible (1 for Yes, 0 for No): 0
+
+Enter boat capacity (kg): 50
+
+
+
+
+OUTPUT
+
+Selected Items for Transport:
+-----------------------------------------------------------
+Item            Weight(kg)  Value       Taken(kg)  
+-----------------------------------------------------------
+Medicine        10          200         10         
+FirstAidKit     15          150         15         
+Food            30          120         25.00      
+-----------------------------------------------------------
+Total Weight Loaded: 50 kg
+Maximum Utility Value: 590
