@@ -1,0 +1,10 @@
+Sort movies by (rating/year/popularity): rating
+
+Sorted Movies:
+---------------------------------------------
+The Dark Knight | Rating: 9 | Year: 2008 | WatchTime: 8000000 mins
+Inception | Rating: 8.8 | Year: 2010 | WatchTime: 5000000 mins
+Interstellar | Rating: 8.6 | Year: 2014 | WatchTime: 4800000 mins
+Oppenheimer | Rating: 8.5 | Year: 2023 | WatchTime: 5200000 mins
+Dune | Rating: 8.3 | Year: 2021 | WatchTime: 4200000 mins
+Tenet | Rating: 7.4 | Year: 2020 | WatchTime: 3500000 mins
